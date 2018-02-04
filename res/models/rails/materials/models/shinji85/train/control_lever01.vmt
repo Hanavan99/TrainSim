@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/shinji85/train/control_lever01"
+	"$bumpmap"			"models/shinji85/train/control_lever01_normal"
+	"$envmap"			"env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"			"[.25 .25 .25]"
+}

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/shinji85/train/trainbumperpost"
+//	"$envmap" "env_cubemap"
+//	"$envmapmode" "1"
+//	"$envmapmask" "models/shinji85/train/trainbumperpost_spec"
+}
